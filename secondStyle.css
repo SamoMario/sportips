@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    overflow: hidden;
+}
+
+
+body{
+    background-color: #080710;
+}
+
+.Data{
+    height: 100vh;
+}
+
+.Data h1{
+    color: #fff;
+    font-size: 4rem;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+.Data p{
+    padding: 1rem;
+    color: #fff;
+    font-family: 'Poppins',sans-serif;
+
+    text-align: center;
+
+    font-size: 1.2rem;
+    border: 1px solid #fff;
+
+    margin: 1rem;
+}
